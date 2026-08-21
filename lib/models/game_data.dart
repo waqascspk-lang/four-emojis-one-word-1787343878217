@@ -52,5 +52,55 @@ class GameData {
       word: 'ANIMALS',
       hint: 'Living creatures of the wild',
     ),
+    Level(
+      emojis: ['🚀', '🪐', '👩‍🚀', '🌟'],
+      word: 'SPACE',
+      hint: 'The final frontier',
+    ),
+    Level(
+      emojis: ['🐳', '🐙', '🐚', '🐠'],
+      word: 'OCEAN',
+      hint: 'Large body of salt water',
+    ),
+    Level(
+      emojis: ['🔴', '🔵', '🟡', '🟢'],
+      word: 'COLORS',
+      hint: 'Red, blue, yellow, and green',
+    ),
+    Level(
+      emojis: ['🥕', '🥦', '🌽', '🍆'],
+      word: 'VEGETABLES',
+      hint: 'Healthy greens and roots',
+    ),
+    Level(
+      emojis: ['⏰', '⏳', '📅', '⌚'],
+      word: 'TIME',
+      hint: 'Measured in hours and minutes',
+    ),
+    Level(
+      emojis: ['🚗', '✈️', '🚢', '🚲'],
+      word: 'TRANSPORT',
+      hint: 'Ways to get from A to B',
+    ),
+    Level(
+      emojis: ['🌳', '🌸', '🌿', '⛰️'],
+      word: 'NATURE',
+      hint: 'The physical world around us',
+    ),
+    Level(
+      emojis: ['🍳', '🥞', '🥓', '🍞'],
+      word: 'BREAKFAST',
+      hint: 'The first meal of the day',
+    ),
+    Level(
+      emojis: ['🎬', '🍿', '🎟️', '🎥'],
+      word: 'MOVIE',
+      hint: 'A story told on a big screen',
+    ),
+    Level(
+      emojis: ['🎈', '🥳', '🍰', '🎁'],
+      word: 'PARTY',
+      hint: 'A celebration with friends',
+    ),
   ];
 }
