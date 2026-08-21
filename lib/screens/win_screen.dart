@@ -97,7 +97,7 @@ class WinScreen extends StatelessWidget {
                       'PLAY AGAIN',
                       style: TextStyle(
                         fontSize: 22,
-                        fontWeight: FontWeight.black,
+                        fontWeight: FontWeight.w900,
                       ),
                     ),
                   ),

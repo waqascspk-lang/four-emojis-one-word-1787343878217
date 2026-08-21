@@ -64,7 +64,7 @@ class HomeScreen extends StatelessWidget {
                     'START GAME',
                     style: TextStyle(
                       fontSize: 22,
-                      fontWeight: FontWeight.black,
+                      fontWeight: FontWeight.w900,
                     ),
                   ),
                 ),
